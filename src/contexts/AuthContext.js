@@ -1,7 +1,5 @@
-import React, { useEffect } from "react";
-import axios from 'axios';
-import { config } from "../helpers/auth";
-import Cookies from "js-cookie";
+import React from "react";
+
 
 export const AuthContext = React.createContext(null);
 
