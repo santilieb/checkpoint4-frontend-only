@@ -1,5 +1,4 @@
 import React from "react";
-import Carousel from 'react-bootstrap/Carousel';
 import './About.css';
 
 import fico from '../images/fico.png';
