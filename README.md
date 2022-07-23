@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with the Furniture Website for Checkpoint 4 at Wild Code School
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
